@@ -1,3 +1,4 @@
+A Library to manipulate linked lists in C.
 Methods in the library
 
 
